@@ -7,36 +7,6 @@
 💬 Ask me about: Kubernetes cluster operations, Terraform & GitOps, SLI/SLO reliability frameworks, and Linux enterprise administration.
 ⚡ Fun fact: Over two decades debugging Linux from kernel-to-web, yet still thrilled by shaving milliseconds off latency and turning chaotic outages into zero-downtime platforms
 
-🌐 Socials:
-
-LinkedIn
-
 💻 Tech Stack:
 
-Go AWS Google Cloud Cloudflare Elasticsearch FastAPI Jenkins Nginx Postgres Redis MongoDB GitLab CI GitHub Actions Bitbucket GitHub Sentry Docker ElasticSearch Grafana Jira Kubernetes Packer Prometheus Terraform Vagrant
-
-📊 GitHub Stats:
-
-
-
-
-
-
-
-🏆 GitHub Trophies
-
-
-
-✍️ Random Dev Quote
-
-
-
-🔝 Top Contributed Repo
-
-
-
-
-
-💰 You can help me by Donating
-
-PayPal
+Go Python AWS Google Cloud Cloudflare Jenkins Postgres Redis MongoDB GitLab CI GitHub Actions Bitbucket GitHub Sentry Docker ElasticSearch Grafana Jira Kubernetes Packer Prometheus Terraform Vagrant
