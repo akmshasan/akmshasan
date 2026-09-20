@@ -16,4 +16,26 @@
 
 💻 Tech Stack:
 
-Go Python AWS Google Cloud Cloudflare Jenkins Postgres Redis MongoDB GitLab CI GitHub Actions Bitbucket GitHub Sentry Docker ElasticSearch Grafana Jira Kubernetes Packer Prometheus Terraform Vagrant
+Go 
+Python 
+AWS 
+Google Cloud 
+Cloudflare 
+Jenkins 
+Postgres 
+Redis 
+MongoDB 
+GitLab CI 
+GitHub Actions 
+Bitbucket 
+GitHub 
+Sentry 
+Docker 
+ElasticSearch 
+Grafana 
+Jira 
+Kubernetes 
+Packer 
+Prometheus 
+Terraform 
+Vagrant
