@@ -7,6 +7,6 @@
 💬 Ask me about: Kubernetes cluster operations, Terraform & GitOps, SLI/SLO reliability frameworks, and Linux enterprise administration.
 ⚡ Fun fact: Over two decades debugging Linux from kernel-to-web, yet still thrilled by shaving milliseconds off latency and turning chaotic outages into zero-downtime platforms
 
-💻 Tech Stack:
 
+💻 Tech Stack:
 Go Python AWS Google Cloud Cloudflare Jenkins Postgres Redis MongoDB GitLab CI GitHub Actions Bitbucket GitHub Sentry Docker ElasticSearch Grafana Jira Kubernetes Packer Prometheus Terraform Vagrant
